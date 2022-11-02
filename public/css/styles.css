@@ -113,7 +113,8 @@ button {
     }
 
     button{
-       margin-left: 690px ;
+        display: flex;
+       margin-left: 650px ;
         width: 25%;
     }
 }
